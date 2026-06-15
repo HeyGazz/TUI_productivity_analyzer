@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(make -C /home/marco/CProjects/TUI_productivity_analyzer)"
+    ]
+  }
+}
