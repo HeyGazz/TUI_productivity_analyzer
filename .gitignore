@@ -3,3 +3,4 @@ productivity
 productivity.dat
 *.o
 *.d
+.*
