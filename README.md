@@ -6,23 +6,23 @@ Track time spent on projects with automatic detection of **active** (typing/mous
 ```
 ┌─────────────────────────────────────────────  2026-06-15  14:32:05 ─┐
 │─────────────────────────────────────────────────────────────────────│
-│ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐   │
-│ │ In Progress │ │  Finished   │ │ Total Time  │ │ Active Time │   │
-│ │      2      │ │      1      │ │  5h 12m     │ │  4h 03m     │   │
-│ └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘   │
+│ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐     │
+│ │ In Progress │ │  Finished   │ │ Total Time  │ │ Active Time │     │
+│ │      2      │ │      1      │ │  5h 12m     │ │  4h 03m     │     │
+│ └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘     │
 │                                                                     │
-│ ┌ Running Session ──────────────────────────────────────────────┐  │
-│ │ Backend API refactor                                           │  │
-│ │ Session: 1h 05m    Active: 52m    Passive: 13m                │  │
-│ │ [ACTIVE]   idle 4s / 30s threshold                            │  │
-│ └───────────────────────────────────────────────────────────────┘  │
+│ ┌ Running Session ──────────────────────────────────────────────┐   │
+│ │ Backend API refactor                                          │   │
+│ │ Session: 1h 05m    Active: 52m    Passive: 13m                │   │
+│ │ [ACTIVE]   idle 4s / 30s threshold                            │   │
+│ └───────────────────────────────────────────────────────────────┘   │
 │                                                                     │
 │ Recent Activities                                                   │
-│ > Backend API refactor       [RUNNING ]  5h 12m                    │
-│ - Frontend redesign          [paused  ]  2h 08m                    │
-│   Write unit tests           [finished]  1h 44m                    │
+│ > Backend API refactor       [RUNNING ]  5h 12m                     │
+│ - Frontend redesign          [paused  ]  2h 08m                     │
+│   Write unit tests           [finished]  1h 44m                     │
 │─────────────────────────────────────────────────────────────────────│
-│ [n]ew  [l]ist  [Enter]start/stop  [f]inish  [d]elete  [q]uit       │
+│ [n]ew  [l]ist  [Enter]start/stop  [f]inish  [d]elete  [q]uit        │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
